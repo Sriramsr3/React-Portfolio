@@ -18,39 +18,39 @@ This is a personal portfolio website built using **React.js** to showcase my ski
 
 ## 🚀 To Run 
    - **1.Check the folder structure:**
-            ```bash
-            project/
-            ├── dist/
-            ├── node_modules/
-            ├── src/
-            │   ├── assets/
-            │   │   ├── equity.png
-            │   │   ├── me.jpg
-            │   │   └── news.jpg
-            │   ├── components/
-            │   │   ├── Footer.jsx
-            │   │   ├── Navbar.jsx
-            │   │   └── SocialLinks.jsx
-            │   ├── layouts/
-            │   │   └── MainLayout.jsx
-            │   ├── pages/
-            │   │   ├── AboutPage.jsx
-            │   │   ├── ContactPage.jsx
-            │   │   ├── HomePage.jsx
-            │   │   ├── ProjectsPage.jsx
-            │   │   └── Technology.jsx
-            │   ├── App.jsx
-            │   ├── index.css
-            │   ├── main.jsx
-            │   └── vite-env.d.ts
-            ├── .gitignore
-            ├── eslint.config.js
-            ├── index.html
-            ├── package-lock.json
-            ├── package.json
-            ├── postcss.config.js
-            ├── README.md
-            └── tailwind.config.js ```
+            <pre>
+            ```project/```
+            ```├── dist/```
+            ```├── node_modules/```
+            ```├── src/```
+            ```│   ├── assets/```
+            ```│   │   ├── equity.png```
+            ```│   │   ├── me.jpg```
+            ```│   │   └── news.jpg```
+            ```│   ├── components/```
+            ```│   │   ├── Footer.jsx```
+            ```│   │   ├── Navbar.jsx```
+            ```│   │   └── SocialLinks.jsx```
+            ```│   ├── layouts/```
+            ```│   │   └── MainLayout.jsx```
+            ```│   ├── pages/```
+            ```│   │   ├── AboutPage.jsx```
+            ```│   │   ├── ContactPage.jsx```
+            ```│   │   ├── HomePage.jsx```
+            ```│   │   ├── ProjectsPage.jsx```
+            ```│   │   └── Technology.jsx```
+            ```│   ├── App.jsx```
+            ```│   ├── index.css```
+            ```│   ├── main.jsx```
+            ```│   └── vite-env.d.ts```
+            ```├── .gitignore```
+            ```├── eslint.config.js```
+            ```├── index.html```
+            ```├── package-lock.json```
+            ```├── package.json```
+            ```├── postcss.config.js```
+            ```├── README.md```
+            ```└── tailwind.config.js ```</pre>
 
 
    

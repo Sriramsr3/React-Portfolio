@@ -18,14 +18,47 @@ This is a personal portfolio website built using **React.js** to showcase my ski
 
 ## 🚀 To Run 
    - **1.Check the folder structure:**
-<pre> ```plaintext project/ ├── dist/ ├── node_modules/ ├── src/ │ ├── assets/ │ │ ├── equity.png │ │ ├── me.jpg │ │ └── news.jpg │ ├── components/ │ │ ├── Footer.jsx │ │ ├── Navbar.jsx │ │ └── SocialLinks.jsx │ ├── layouts/ │ │ └── MainLayout.jsx │ ├── pages/ │ │ ├── AboutPage.jsx │ │ ├── ContactPage.jsx │ │ ├── HomePage.jsx │ │ ├── ProjectsPage.jsx │ │ └── TechnologiesPage.jsx │ ├── App.jsx │ ├── index.css │ └── main.jsx ├── .gitignore ├── eslint.config.js ├── index.html ├── package-lock.json ├── package.json ├── postcss.config.js ├── README.md ├── tailwind.config.js └── vite-env.d.ts ``` </pre>
+            ```bash
+            project/
+            ├── dist/
+            ├── node_modules/
+            ├── src/
+            │   ├── assets/
+            │   │   ├── equity.png
+            │   │   ├── me.jpg
+            │   │   └── news.jpg
+            │   ├── components/
+            │   │   ├── Footer.jsx
+            │   │   ├── Navbar.jsx
+            │   │   └── SocialLinks.jsx
+            │   ├── layouts/
+            │   │   └── MainLayout.jsx
+            │   ├── pages/
+            │   │   ├── AboutPage.jsx
+            │   │   ├── ContactPage.jsx
+            │   │   ├── HomePage.jsx
+            │   │   ├── ProjectsPage.jsx
+            │   │   └── Technology.jsx
+            │   ├── App.jsx
+            │   ├── index.css
+            │   ├── main.jsx
+            │   └── vite-env.d.ts
+            ├── .gitignore
+            ├── eslint.config.js
+            ├── index.html
+            ├── package-lock.json
+            ├── package.json
+            ├── postcss.config.js
+            ├── README.md
+            └── tailwind.config.js ```
+
 
    
    - **2.Install dependencies:**
-            npm i(npm install)
+            <pre>npm i(npm install)</pre>
 
    - **3.Start the development server:**
-            npm run dev
+            <pre>npm run dev</pre>
 
 ## 🌐 Live Demo
 Check it out live: https://sriram-portfolio-sr.netlify.app
